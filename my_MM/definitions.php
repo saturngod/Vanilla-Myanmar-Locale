@@ -25,13 +25,13 @@ $Definition['(YYYY-mm-dd)'] = '(YYYY-mm-dd)';
 $Definition['1 month after being sent'] = '၁လကြာပြီးနောက်';
 $Definition['1 week after being sent'] = '၁ပတ်ကြာပြီးနောက်';
 
-$Definition['2 weeks after being sent'] = '၂ပတ်ကြပြီးနောက်';
+$Definition['2 weeks after being sent'] = '၂ပတ်ကြာပြီးနောက်';
 
 $Definition['<General Error>'] = '<General Error>';
 $Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s) %3$s';
 $Definition['<strong>The basic registration form requires</strong> that new users copy text from a "Captcha" image to keep spammers out of the site. You need an account at <a href="http://recaptcha.net/">recaptcha.net</a>. Signing up is FREE and easy. Once you have signed up, come back here and enter the following settings:'] = '<strong>The basic registration form requires</strong> that new users copy text from a "Captcha" image to keep spammers out of the site. You need an account at <a href="http://recaptcha.net/">recaptcha.net</a>. Signing up is FREE and easy. Once you have signed up, come back here and enter the following settings:';
 
-$Definition['[%1$s] Membership Approved'] = '[%1$s] အဖွဲ့ဝင်အဖြစ် အသိအမှတ်ပြုသည်။';
+$Definition['[%1$s] Membership Approved'] = '[%1$s] အဖွဲ့ဝင်အဖြစ် အသိအမှတ်ပြုပါသည်။';
 
 $Definition['_Locale'] = 'Locale';
 
@@ -44,7 +44,7 @@ $Definition['Add Route'] = 'Add Route';
 $Definition['Add User'] = 'အဖွဲ့ဝင်အသစ်ထည့်ရန်';
 $Definition['Addons'] = 'Addons';
 $Definition['Administrator'] = 'စီမံခန့်ခွဲသူ';
-$Definition['Advanced'] = 'ထပ်မံ ပြုပြင်ခြင်း';
+$Definition['Advanced'] = 'အသေးစိတ် ပြုပြင်ခြင်း';
 $Definition['Advanced Forum Settings'] = 'Advanced Forum Settings';
 $Definition['All <span>16</span>'] = 'All <span>16</span>';
 $Definition['All <span>2</span>'] = 'All <span>2</span>';
@@ -90,7 +90,7 @@ $Definition['Confirm Email'] = 'Confirm Email';
 $Definition['Consumer Key'] = 'Consumer Key';
 $Definition['Consumer Secret'] = 'Consumer Secret';
 $Definition['Conversation Messages'] = 'Conversation Messages';
-$Definition['Conversations'] = 'သီးသန့်စာများ';
+$Definition['Conversations'] = 'ပြောဆိုချက်များ';
 $Definition['Copy'] = 'Copy';
 $Definition['Copy locale pack.'] = 'Copy the definitions from a locale pack to the Locale Developer. The definitions will be put in the <code>copied.php</code> file.';
 $Definition['Current Authenticator'] = 'Current Authenticator';
@@ -113,7 +113,7 @@ $Definition['Disabled <span>9</span>'] = 'Disabled <span>9</span>';
 $Definition['Discussion & Comment Editing'] = 'Discussion & Comment Editing';
 $Definition['discussion(s)'] = 'ဆွေးနွေးချက်';
 $Definition['Discussions'] = 'ဆွေးနွေးချက်များ';
-$Definition['Discussions per Page'] = 'Discussions per Page';
+$Definition['Discussions per Page'] = 'စာတစ်မျက်နှာတွင် ဆွေးနွေးချက် အရေအတွက်';
 $Definition['dot'] = 'dot';
 
 $Definition['Edit'] = 'Edit';
@@ -356,8 +356,8 @@ $Definition['Activity.ActivityComment.FullHeadline'] = '%1$s commented on %4$s %
 $Definition['Activity.ActivityComment.ProfileHeadline'] = '%1$s';
 $Definition['Activity.AddedToConversation.FullHeadline'] = '%1$s added you to a %8$s.';
 $Definition['Activity.AddedToConversation.ProfileHeadline'] = '%1$s added  you to a %8$s.';
-$Definition['Activity.BookmarkComment.FullHeadline'] = '%1$s သည် သင်၏ %8$s တွင် မှတ်ချက်ရေးသွားသည်။';
-$Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s သည် သင်၏ %8$s တွင် မှတ်ချက် ရေးသွားသည်။';
+$Definition['Activity.BookmarkComment.FullHeadline'] = '%1$s သည် သင်၏ %8$s တွင် မှတ်ချက် ရေးသားထားသည်။';
+$Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s သည် သင်၏ %8$s တွင် မှတ်ချက် ရေးသားထားသည်။';
 $Definition['Activity.Comment'] = 'Comment';
 $Definition['Activity.CommentMention.FullHeadline'] = '%1$s သည် %3$s အား %8$s တွင် ရည်ညွှန်း ရေးသားထားသည်။';
 $Definition['Activity.CommentMention.ProfileHeadline'] = '%1$s သည် %3$s အား %8$s တွင် ရည်ညွှန်း ရေးသားထားသည်။';
@@ -388,41 +388,41 @@ $Definition['Activity.SignIn.ProfileHeadline'] = '%1$s signed in.';
 $Definition['Activity.WallComment.FullHeadline'] = '%1$s wrote on %4$s %5$s.';
 $Definition['Activity.WallComment.ProfileHeadline'] = '%1$s wrote:';
 $Definition['Add'] = 'ထည့်ရန်';
-$Definition['Add Comment'] = 'မှတ်ချက် တင်ရန်';
-$Definition['Add Info &amp; Create Account'] = 'အချက်အလက် ဖြည့်စွက်ရန် နှင့် ​account ဖန်တီးရန်';
+$Definition['Add Comment'] = 'မှတ်ချက်ရေးသားရန်';
+$Definition['Add Info &amp; Create Account'] = 'အချက်အလက် ဖြည်းသွင်းရန် နှင့် ​account ဖန်တီးရန်';
 $Definition['Add Message'] = 'စာထည့်ရန်';
-$Definition['Add People to this Conversation'] = 'ယခု သီးသန့်စာတွင် လူအသစ်ထည့်ရန်';
-$Definition['All Conversations'] = 'သီးသန့်စာ အကုန်';
-$Definition['All Discussions'] = 'ပြောဆို ဆွေးနွေးခြင်းများ';
-$Definition['Allow other members to see your email?'] = 'အခြားသူများကို သင့်ရဲ့ email ကြည့်ရှုခွင့် ပေးမလား ?';
+$Definition['Add People to this Conversation'] = 'ယခု ပြောဆိုချက်တွင် လူအသစ်ထည့်ရန်';
+$Definition['All Conversations'] = 'ပြောဆိုချက်အားလုံး';
+$Definition['All Discussions'] = 'ဆွေးနွေးချက်များ';
+$Definition['Allow other members to see your email?'] = 'အခြားသူများကို သင့်၏ email ကြည့်ရှုခွင့် ပေးမည်လား?';
 $Definition['Announce'] = 'ကြေငြာချက်';
 $Definition['Announcement'] = 'ကြေငြာချက်';
 $Definition['Closed'] = '​ပိတ်ထား​သည်';
 $Definition['Applicants'] = 'Applicants';
 $Definition['Apply'] = 'အသုံးပြုမည်';
-$Definition['Apply for Membership'] = 'အဖွဲ့ဝင် အဖြစ် လျှောက်ထားခြင်း';
-$Definition['Are you sure you want to do that?'] = 'ဒါလုပ်မှာ သေချာလား?';
+$Definition['Apply for Membership'] = 'အဖွဲ့ဝင်အဖြစ် လျှောက်ထားခြင်း';
+$Definition['Are you sure you want to do that?'] = 'ပြုလုပ်မည်သေချာပါသလား?';
 $Definition['at'] = 'at';
 
-$Definition['Back to Discussions'] = '​ေဆွးနွေးခြင်းများသို့ ပြန်သွားရန်';
+$Definition['Back to Discussions'] = '​ဆွေးနွေးခြင်းများသို့ ပြန်သွားရန်';
 $Definition['Bookmark'] = 'Bookmark';
-$Definition['bookmarked discussion'] = 'မှတ်ထားတဲ့ ဆွေးနွေးချက်';
-$Definition['Bookmarked Discussions'] = 'မှတ်ထားတဲ့ ဆွေးနွေးချက်များ';
+$Definition['bookmarked discussion'] = 'မှတ်သားထားသောဆွေးနွေးချက်';
+$Definition['Bookmarked Discussions'] = 'မှတ်သားထားသောဆွေးနွေးချက်များ';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.';
 
-$Definition['Cancel'] = 'လက်မခံ';
+$Definition['Cancel'] = 'မပြုလုပ်တော့ပါ';
 $Definition['Categories'] = 'အမျိုးအစားများ';
 $Definition['Category'] = 'အမျိုးအစား';
-$Definition['Change My Password'] = 'လျို့ဝှက်စာလုံး ပြောင်းလဲမည်';
-$Definition['Change My Picture'] = 'ရုပ်ပုံ ပြောင်းလဲမည်';
+$Definition['Change My Password'] = 'လျှို့ဝှက်စာလုံးပြောင်းလဲမည်';
+$Definition['Change My Picture'] = 'ရုပ်ပုံပြောင်းလဲမည်';
 $Definition['Close'] = 'ပိတ်သည်';
 $Definition['comment'] = 'မှတ်ချက်';
 $Definition['Comment'] = 'မှတ်ချက်';
-$Definition['Confirm'] = 'သေချာသည်';
-$Definition['Confirm Password'] = 'လျို့ဝှက်စာလုံး ပြန်ထည့်ရန်';
+$Definition['Confirm'] = 'သေချာပါသည်';
+$Definition['Confirm Password'] = 'လျှို့ဝှက်စာလုံးပြန်ထည့်ရန်';
 $Definition['Connect'] = 'ချိတ်ဆက်သည်';
-$Definition['conversation'] = 'သီးသန့်စာ';
-$Definition['Conversations'] = 'သီးသန့်စာများ';
+$Definition['conversation'] = 'ပြောဆိုချက်';
+$Definition['Conversations'] = 'ပြောဆိုချက်များ';
 $Definition['Create One.'] = 'တစ်ခုဖန်တီးရန်';
 
 $Definition['Dashboard'] = 'ထိန်းချုပ်နေရာ';
@@ -431,24 +431,24 @@ $Definition['Date.DefaultFormat'] = '%B %e, %Y';
 $Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Delete'] = 'ဖျက်သည်';
-$Definition['Delete Account'] = 'Account ဖျက်သည်';
-$Definition['Delete Conversation'] = 'ယခု သီးသန့်စာကို ဖျက်ရန်';
-$Definition['Delete Discussion'] = 'ဆွေးနွေးချက်ကို ဖျက်ရန်';
+$Definition['Delete Account'] = 'Account ဖျက်ရန်';
+$Definition['Delete Conversation'] = 'ယခုပြောဆိုချက်ကိုဖျက်ရန်';
+$Definition['Delete Discussion'] = 'ဆွေးနွေးချက်ကိုဖျက်ရန်';
 $Definition['discussion'] = 'ဆွေးနွေးချက်';
-$Definition['Discussion Title'] = 'ဆွေးနွေးသည့် ခေါင်းစဉ်';
+$Definition['Discussion Title'] = 'ဆွေးနွေးချက် ခေါင်းစဉ်';
 $Definition['Discussions'] = 'ဆွေးနွေးချက်များ';
-$Definition['Don\'t have an account? %s'] = 'Account မရှိဘူးလား ? %s';
+$Definition['Don\'t have an account? %s'] = 'Account မရှိလျှင်? %s';
 $Definition['dot'] = 'dot';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Drag around and resize the square below to define your thumbnail icon.';
 
-$Definition['Edit'] = 'ပြင်ရန်';
-$Definition['Edit Account'] = 'Account ပြင်ရန်';
-$Definition['Edit My Account'] = 'ကျွနု်ပ် Account ပြင်ရန်';
+$Definition['Edit'] = 'ပြင်ဆင်ရန်';
+$Definition['Edit Account'] = 'Account ပြင်ဆင်ရန်';
+$Definition['Edit My Account'] = 'ကျွန်ုပ်၏ Account ကိုပြင်ဆင်ရန်';
 $Definition['Edit My Thumbnail'] = 'ရုပ်ပုံပြင်ဆင်ရန်';
 $Definition['Edit Preferences'] = 'စိတ်ကြိုက်ပြင်ဆင်ရန်';
 $Definition['Email'] = 'Email';
-$Definition['Email Notifications'] = 'Email ဖြင့် အကြောင်းကြားခြင်း';
-$Definition['Email Unavailable'] = 'email အသုံးပြုလို့ မရပါ';
+$Definition['Email Notifications'] = 'Email ဖြင့်အကြောင်းကြားချက်';
+$Definition['Email Unavailable'] = 'email အသုံးပြု၍မရပါ';
 $Definition['EmailInvitation'] = 'Hello!
 
 %1$s has invited you to join %2$s. If you want to join, you can do so by clicking this link:
@@ -520,12 +520,12 @@ $Definition['Enter the email address of the person you would like to invite:'] =
 $Definition['Enter your Email address'] = 'Enter your Email address';
 $Definition['Enter your existing account password.'] = 'Enter your existing account password.';
 $Definition['ErrorCredentials'] = 'Sorry, no account could be found related to the email and password you entered.';
-$Definition['ErrorPermission'] = 'သင့်အား ဝင်ခွင့်မပြုပေ';
+$Definition['ErrorPermission'] = 'သင့်အားဝင်ခွင့်တားမြစ်ထားပါသည်';
 $Definition['ErrorRecordNotFound'] = 'The requested record could not be found.';
 $Definition['ErrorTermsOfService'] = 'You must agree to the terms of service.';
 
 $Definition['Female'] = 'မိန်းကလေး';
-$Definition['Forgot?'] = 'မေ့နေလား?';
+$Definition['Forgot?'] = 'မေ့လျော့နေပါလား?';
 
 $Definition['Gender'] = 'ကျား ၊ မ';
 $Definition['GenderSuffix.First.f'] = '';
@@ -533,7 +533,7 @@ $Definition['GenderSuffix.First.m'] = '';
 $Definition['GenderSuffix.Third.f'] = '';
 $Definition['GenderSuffix.Third.m'] = '';
 $Definition['Go'] = 'Go';
-$Definition['GuestModule.Message'] = 'ကြိုဆိုပါတယ်။ အခုမှ ပထမဆုံး အကြိမ် ရောက်ဖူးတာလား ? ဝင်ရောက် ဆွေးနွေး မေးမြန်းလိုလျှင် အောက်မှာ ရှိတဲ့ button တွေကနေ တဆင့် ဝင်ရောက် ဆွေးနွေးနိုင်သလို အဖွဲ့ ဝင် အသစ်အနေနဲ့လည်း လျှောက်ထားနိုင်ပါတယ်။ ';
+$Definition['GuestModule.Message'] = 'လှိုက်လှဲစွာကြိုဆိုပါသည်။ ယခု ပထမဆုံးအကြိမ် ရောက်ဖူးခြင်းဖြစ်ပါသလား? ဝင်ရောက် ဆွေးနွေး မေးမြန်းလိုပါလျှင် အောက်တွင်ဖော်ပြထားသော button များမှတဆင့် ဝင်ရောက် ဆွေးနွေးနိုင်သကဲ့သို့ အဖွဲ့ဝင်အသစ်အနေဖြင့်လည်း လျှောက်ထားနိုင်ပါတယ်။ ';
 
 $Definition['he'] = 'သူ';
 $Definition['her'] = 'သူမ၏';
@@ -542,44 +542,44 @@ $Definition['Howdy, Stranger!'] = 'မင်္ဂလာပါ!';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>';
 $Definition['I remember now!'] = 'I remember now!';
-$Definition['In this Conversation'] = 'ယခု သီးသန့်စာထဲတွင်';
+$Definition['In this Conversation'] = 'ယခုပြောဆိုချက်တွင်';
 $Definition['Inbox'] = 'စာတိုက်';
 $Definition['Internal'] = 'Internal';
 $Definition['Invitation Code'] = 'Invitation Code';
 $Definition['Invite'] = 'Invite';
 $Definition['Invited by'] = 'Invited by';
 
-$Definition['Joined'] = 'စသည့် နေ့';
+$Definition['Joined'] = 'အသင်းဝင်သည့်နေ့ရက်';
 
 $Definition['Keep me signed in'] = 'အမြဲဝင်ထားရန်';
 
-$Definition['Last Active'] = 'နောက်ဆုံး ဝင်ချိန်';
+$Definition['Last Active'] = 'နောက်ဆုံးဝင်ရောက်ခဲ့ချိန်';
 $Definition['Login with Facebook'] = 'Facebook ဖြင့်ဝင်ရန်';
 
 $Definition['Male'] = 'ယောက်ျားလေး';
-$Definition['Most recent by %1$s'] = 'နောက်ဆုံးရေးသားသူ %1$s';
-$Definition['My Bookmarks'] = 'ကျွနု်ပ် မှတ်ထားမှု';
-$Definition['My Discussions'] = 'ကျွနု်ပ်၏ ဆွေးနွေးချက်များ';
-$Definition['My Drafts'] = 'ကျွနု်ပ်၏ စာကြမ်း';
-$Definition['My Invitations'] = 'ကျွနု်ပ်၏ ဖိတ်ကြားမှုများ';
-$Definition['My Preferences'] = 'ကျွန်ုပ်၏ စိတ်ကြိုက် ပြင်ဆင်မှု';
+$Definition['Most recent by %1$s'] = 'နောက်ဆုံးရေးသားခဲ့သူ %1$s';
+$Definition['My Bookmarks'] = 'ကျွန်ုပ်၏ မှတ်သားထားမှု';
+$Definition['My Discussions'] = 'ကျွန်ုပ်၏ ဆွေးနွေးချက်များ';
+$Definition['My Drafts'] = 'ကျွန်ုပ်၏ စာကြမ်း';
+$Definition['My Invitations'] = 'ကျွန်ုပ်၏ ဖိတ်ကြားမှုများ';
+$Definition['My Preferences'] = 'ကျွန်ုပ်၏ ကိုယ်ရေးအချက်အလက်များ';
 
 $Definition['Name Unavailable'] = 'Name Unavailable';
-$Definition['No discussions were found.'] = 'ဆွေးနွေးချက်များ ရှာမတွေ့ပါ';
-$Definition['Notifications'] = 'အချက်ပေး ချက်များ';
-$Definition['Notify me of private messages.'] = 'စာရောက်နေရလျှင် အချက်ပေးပါ။';
-$Definition['Notify me when I am added to private conversations.'] = 'သီးသန့် အပြန်အလှန် ပြောဆိုမှု ရောက်လာလျှင် အချက်ပေးပါ။';
-$Definition['Notify me when people comment on my bookmarked discussions.'] = 'ကျွနု်ပ် မှတ်ထားမှု တွင် မှတ်ချက် ရှိလျှင် အချက်ပေးပါ။';
-$Definition['Notify me when people comment on my discussions.'] = 'ကျွန်ုပ်ဆွေးနွေးချက်တွင် တွင် ပြန်လည် မှတ်ချက် ရေးပါက အချက်ပေးပါ။';
-$Definition['Notify me when people mention me in comments.'] = 'မှတ်ချက်များတွင် ကျွန်ုပ်အား ရည်ညွှန်းထားလျှင် အချက်ပေးပါ။';
-$Definition['Notify me when people mention me in discussion titles.'] = 'ဆွေးနွေးချက်တွင် ကျွန်ုပ်အား ရည်ညွှန်းထားလျှင် အချက်ပေးပါ။';
-$Definition['Notify me when people reply to my wall comments.'] = 'ကွျန်ုပ် ကိုယ်ပိုင်မျက်နှာစာတွင် မှာ အခြားသူတွေ မှတ်ချက်ရေးထားခဲ့လျှင် အချက်ပေးပါ။';
-$Definition['Notify me when people write on my wall.'] = 'ကွျန်ုပ် ကိုယ်ပိုင် မျက်နှာစာတွင် အခြားသူတွေ လာရေးရင် အချက်ပေးပါ။';
+$Definition['No discussions were found.'] = 'ဆွေးနွေးချက် ရှာဖွေမတွေ့ရှိပါ';
+$Definition['Notifications'] = 'အသိပေးချက်များ';
+$Definition['Notify me of private messages.'] = 'စာရောက်ရှိပါက အသိပေးပါ။';
+$Definition['Notify me when I am added to private conversations.'] = 'သီးသန့် အပြန်အလှန် ပြောဆိုမှု ရောက်လာလျှင် အသိပေးပါ။';
+$Definition['Notify me when people comment on my bookmarked discussions.'] = 'ကျွန်ုပ်၏ မှတ်ထားမှုတွင် မှတ်ချက် ရေးသားသွားလျှင် အသိပေးပါ။';
+$Definition['Notify me when people comment on my discussions.'] = 'ကျွန်ုပ်ဆွေးနွေးချက်တွင် တွင် ပြန်လည် မှတ်ချက် ရေးသားသွားလျှင် အသိပေးပါ။';
+$Definition['Notify me when people mention me in comments.'] = 'မှတ်ချက်များတွင် ကျွန်ုပ်အား ရည်ညွှန်းထားလျှင် အသိပေးပါ။';
+$Definition['Notify me when people mention me in discussion titles.'] = 'ဆွေးနွေးချက်တွင် ကျွန်ုပ်အား ရည်ညွှန်းထားလျှင် အသိပေးပါ။';
+$Definition['Notify me when people reply to my wall comments.'] = 'ကျွန်ုပ်၏ ကိုယ်ပိုင်မျက်နှာစာတွင် အခြားသူတွေ မှတ်ချက် ရေးသားသွားလျှင် အသိပေးပါ။';
+$Definition['Notify me when people write on my wall.'] = 'ကျွန်ုပ်၏ ကိုယ်ပိုင် မျက်နှာစာတွင် အခြားသူတွေ လာရောက်ရေးသားပါက အသိပေးပါ။';
 
-$Definition['Okay'] = 'ကောင်းပြီ';
+$Definition['Okay'] = 'ပြုလုပ်ပါ';
 $Definition['On'] = 'On';
 $Definition['Options'] = 'Options';
-$Definition['Or you can...'] = 'ဒါမှမဟုတ် သင့်အနေနဲ့ ...';
+$Definition['Or you can...'] = 'ဒါမှမဟုတ် သင့်အနေဖြင့် ...';
 $Definition['Original'] = 'Original';
 
 $Definition['PageDetailsMessage'] = '%1$s to %2$s';
@@ -595,23 +595,23 @@ If you did not make this request, disregard this email.';
 $Definition['Passwords don\'t match'] = 'Passwords don\'t match';
 $Definition['Permalink'] = 'Permalink';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.';
-$Definition['Post Comment'] = 'မှတ်ချက် တင်သည်';
-$Definition['Post Discussion'] = 'ဆွေးနွေးချက် တင်သည်';
+$Definition['Post Comment'] = 'မှတ်ချက်ရေးသားပါ';
+$Definition['Post Discussion'] = 'ဆွေးနွေးချက်ရေးသားပါ';
 $Definition['Powered by Vanilla'] = 'Powered by Vanilla';
-$Definition['Preview'] = 'နမူနာ';
+$Definition['Preview'] = 'စာကြမ်းနမူနာ';
 $Definition['Profile Picture'] = 'Profile Picture';
 
-$Definition['Recent Activity'] = 'ပြီးခဲ့တဲ့ လှုပ်ရှားမှုတွေ';
-$Definition['Recipients'] = 'လက်ခံသူများ';
+$Definition['Recent Activity'] = 'လတ်တလော လှုပ်ရှားမှုများ';
+$Definition['Recipients'] = 'လက်ခံရရှိမည့်သူများ';
 $Definition['Redirecting...'] = 'Redirecting...';
-$Definition['Remember me on this computer'] = 'ယခု ကွန်ပြူတာတွေ မှတ်သားထားပါ';
-$Definition['Remove My Picture'] = 'ကွျန်ုပ်ပုံကို ဖြုတ်လိုက်ပါ';
-$Definition['Request a new password'] = 'လျို့ဝှက်စာလုံး အသစ် တောင်းရန်';
-$Definition['Roles'] = 'ကဏ္ဍ';
+$Definition['Remember me on this computer'] = 'ယခု ကွန်ပြူတာကို မှတ်သားထားပါ';
+$Definition['Remove My Picture'] = 'ကျွန်ုပ်၏ပုံကိုဖျက်ရန်';
+$Definition['Request a new password'] = 'လျှို့ဝှက်စာလုံးအသစ်တောင်းရန်';
+$Definition['Roles'] = 'ရာထူးတာဝန်';
 
-$Definition['Save'] = 'သိမ်းရန်';
-$Definition['Save Draft'] = 'စာကြမ်း သိမ်းရန်';
-$Definition['Save Preferences'] = 'Save Preferences';
+$Definition['Save'] = 'သိမ်းဆည်းရန်';
+$Definition['Save Draft'] = 'စာကြမ်း သိမ်းဆည်းရန်';
+$Definition['Save Preferences'] = 'ကိုယ်ရေးအချက်များ သိမ်းဆည်းရန်';
 $Definition['Search'] = 'Search';
 $Definition['Select an image on your computer (2mb max)'] = 'Select an image on your computer (2mb max)';
 $Definition['Send %s a Message'] = '%s ကို စာပို့ရန်';
@@ -619,27 +619,27 @@ $Definition['Send Message'] = 'စာပို့ရန်';
 $Definition['Sent To'] = 'သို့';
 $Definition['Share'] = 'မျှဝေသည်';
 $Definition['she'] = 'she';
-$Definition['Sign In'] = 'ဝင်ရန်';
-$Definition['Sign In with Google'] = 'Google ဖြင့် ဝင်ရန်';
-$Definition['Sign In with OpenID'] = 'OpenID ဖြင့် ဝင်ရန်';
-$Definition['Sign In with Twitter'] = 'Twitter ဖြင့်ဝင်ရန်';
+$Definition['Sign In'] = 'ဝင်ရောက်ရန်';
+$Definition['Sign In with Google'] = 'Google ဖြင့်ဝင်ရောက်ရန်';
+$Definition['Sign In with OpenID'] = 'OpenID ဖြင့်ဝင်ရောက်ရန်';
+$Definition['Sign In with Twitter'] = 'Twitter ဖြင့်ဝင်ရောက်ရန်';
 $Definition['Sign Out'] = 'ထွက်မည်';
 $Definition['Sign Up'] = 'Sign Up';
 $Definition['Sink'] = 'Sink';
 $Definition['somebody'] = 'somebody';
-$Definition['Start a New Conversation'] = 'သီးသန့်စာ အသစ် ရေးရန်';
-$Definition['Start a New Discussion'] = 'မေးမြန်း ၊ ဆွေးနွေး မှုစတင်ရန်';
+$Definition['Start a New Conversation'] = 'ပြောဆိုချက်အသစ် ရေးသားရန်';
+$Definition['Start a New Discussion'] = 'ဆွေးနွေးမေးမြန်းခြင်းစတင်ရန်';
 $Definition['Start Conversation'] = 'Start Conversation';
 $Definition['Started by %1$s'] = 'Started by %1$s';
 $Definition['Status'] = 'Status';
 
-$Definition['Thank You!'] = 'ကျေးဇူးတင်ပါတယ်!';
+$Definition['Thank You!'] = 'ကျေးဇူးတင်ပါသည်!';
 $Definition['Thumbnail'] = 'ပုံသေး';
 $Definition['Transport error: %s'] = 'A fatal error occurred while processing the request.<br />The server returned the following response: %s';
 
 $Definition['Unbookmark'] = 'Unbookmark';
 $Definition['Upload'] = 'Upload';
-$Definition['Username'] = 'အသုံးပြုသူ နာမည်';
+$Definition['Username'] = 'အသုံးပြုသူအမည်';
 
 $Definition['ValidateBoolean'] = '%s is not a valid boolean.';
 $Definition['ValidateConnection'] = 'The connection parameters you specified failed to open a connection to the database. The database reported the following error: <code>%s</code>';
@@ -663,21 +663,21 @@ $Definition['Visits'] = 'ကြည့်ရှုမှုပေါင်း';
 
 $Definition['wall'] = 'wall';
 $Definition['Why do you want to join?'] = 'သင်ဘာကြောင့် ချိတ်ဆက်ချင်တာလဲ ?';
-$Definition['Write a comment'] = 'မှတ်ချက်ရေးရန်';
-$Definition['Write Comment'] = 'မှတ်ချက်ရေးရန်';
-$Definition['Write something about yourself...'] = 'သင့်အကြောင်း တစ်စုံတစ်ခုပေါ့...';
+$Definition['Write a comment'] = 'မှတ်ချက်ရေးသားရန်';
+$Definition['Write Comment'] = 'မှတ်ချက်ရေးသားရန်';
+$Definition['Write something about yourself...'] = 'သင့်၏အကြောင်း တစ်စုံတစ်ရာ ရေးသားရန်...';
 
 $Definition['you'] = 'သင်';
 $Definition['You'] = 'သင်';
-$Definition['You already have an account here.'] = 'သင်၏ ​အကောင့် ရှိပြီးသားဖြစ်သည်';
+$Definition['You already have an account here.'] = 'သင်၏ Account ရှိပြီးသားဖြစ်သည်';
 $Definition['You are connected as %s through %s.'] = 'You are connected as %s through %s.';
 $Definition['You do not have any conversations.'] = 'You do not have any conversations.';
-$Definition['You do not have any notifications yet.'] = 'အချက်ပေးချက် အသစ်မရှိသေးပါ။';
+$Definition['You do not have any notifications yet.'] = 'အသိပေးချက် အသစ်မရှိသေးပါ။';
 $Definition['your'] = 'your';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Your application will be reviewed by an administrator. You will be notified by email if your application is approved.';
-$Definition['Your registered username: <strong>%s</strong>'] = 'သင် အဖွဲ့ဝင်ထားသည့် နာမည်မှာ : <strong>%s</strong>';
+$Definition['Your registered username: <strong>%s</strong>'] = 'သင် အဖွဲ့ဝင်ထားသည့် အမည်မှာ : <strong>%s</strong>';
 $Definition['Popular']='လူကြည့်အများဆုံး';
-$Definition['Popular Tags']='အသုံးများသည့် Tags';
+$Definition['Popular Tags']='အသုံးပြုမှုများသည့် Tags';
 $Definition['Votes']='ထောက်ခံမှု';
 $Definition['Views']='ကြည့်ရှုမှု';
 
