@@ -4,8 +4,8 @@
 $LocaleInfo['my_MM'] = array (
   'Locale' => 'my_MM',
   'Name' => 'မြန်မာစာ',
-  'Description' => 'Myanmar Language , မြန်မာ ဘာသာစကား',
-  'Version' => '0.2.1',
+  'Description' => 'Myanmar Lanauge , မြန်မာ ဘာသာစကား',
+  'Version' => '0.2',
   'Author' => 'saturngod',
   'AuthorEmail' => 'saturngod@gmail.com',
   'AuthorUrl' => 'http://www.saturngod.net',
@@ -400,7 +400,7 @@ $Definition['Announcement'] = 'ကြေငြာချက်';
 $Definition['Closed'] = '​ပိတ်ထား​သည်';
 $Definition['Applicants'] = 'Applicants';
 $Definition['Apply'] = 'အသုံးပြုမည်';
-$Definition['Apply for Membership'] = 'အဖွဲ့ဝင် အဖြင့် လျှောက်ထားခြင်း';
+$Definition['Apply for Membership'] = 'အဖွဲ့ဝင် အဖြစ် လျှောက်ထားခြင်း';
 $Definition['Are you sure you want to do that?'] = 'ဒါလုပ်မှာ သေချာလား?';
 $Definition['at'] = 'at';
 
@@ -542,7 +542,7 @@ $Definition['Howdy, Stranger!'] = 'မင်္ဂလာပါ!';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>';
 $Definition['I remember now!'] = 'I remember now!';
-$Definition['In this Conversation'] = 'ဒီ သီးသန့်စာထဲတွင်';
+$Definition['In this Conversation'] = 'ယခု သီးသန့်စာထဲတွင်';
 $Definition['Inbox'] = 'စာတိုက်';
 $Definition['Internal'] = 'Internal';
 $Definition['Invitation Code'] = 'Invitation Code';
@@ -672,10 +672,10 @@ $Definition['You'] = 'သင်';
 $Definition['You already have an account here.'] = 'သင်၏ ​အကောင့် ရှိပြီးသားဖြစ်သည်';
 $Definition['You are connected as %s through %s.'] = 'You are connected as %s through %s.';
 $Definition['You do not have any conversations.'] = 'You do not have any conversations.';
-$Definition['You do not have any notifications yet.'] = 'You do not have any notifications yet.';
+$Definition['You do not have any notifications yet.'] = 'အချက်ပေးချက် အသစ်မရှိသေးပါ။';
 $Definition['your'] = 'your';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Your application will be reviewed by an administrator. You will be notified by email if your application is approved.';
-$Definition['Your registered username: <strong>%s</strong>'] = 'Your registered username: <strong>%s</strong>';
+$Definition['Your registered username: <strong>%s</strong>'] = 'သင် အဖွဲ့ဝင်ထားသည့် နာမည်မှာ : <strong>%s</strong>';
 $Definition['Popular']='လူကြည့်အများဆုံး';
 $Definition['Popular Tags']='အသုံးများသည့် Tags';
 $Definition['Votes']='ထောက်ခံမှု';
