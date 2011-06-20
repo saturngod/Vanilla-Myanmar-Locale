@@ -42,10 +42,10 @@ $Definition['Add'] = 'ထည့်သည်';
 $Definition['Add Message'] = 'စာထည့်ရန်';
 $Definition['Add Route'] = 'Add Route';
 $Definition['Add User'] = 'အဖွဲ့ဝင်အသစ်ထည့်ရန်';
-$Definition['Addons'] = 'Addons';
+$Definition['Addons'] = 'ဖြည့်စွက်';
 $Definition['Administrator'] = 'စီမံခန့်ခွဲသူ';
 $Definition['Advanced'] = 'အသေးစိတ် ပြုပြင်ခြင်း';
-$Definition['Advanced Forum Settings'] = 'Advanced Forum Settings';
+$Definition['Advanced Forum Settings'] = 'အသေးစိတ် ပြင်ဆင်ချက်';
 $Definition['All <span>16</span>'] = 'All <span>16</span>';
 $Definition['All <span>2</span>'] = 'All <span>2</span>';
 $Definition['Announce'] = 'ကြေငြာချက်';
@@ -57,13 +57,13 @@ $Definition['Application ID'] = 'Application ID';
 $Definition['Application Secret'] = 'Application Secret';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Applications'] = 'Applications';
-$Definition['Approve'] = 'Approve';
+$Definition['Approve'] = 'လက်ခံသည်';
 $Definition['Archive Discussions'] = 'Archive Discussions';
 $Definition['Are you sure you want to do that?'] = 'Are you sure you want to do that?';
 $Definition['at'] = 'at';
 $Definition['Authentication'] = 'Authentication';
 
-$Definition['Banned'] = 'Banned';
+$Definition['Banned'] = 'ရပ်ဆိုင်းသည်။';
 $Definition['Banner'] = 'Banner';
 $Definition['Banner Logo'] = 'Banner Logo';
 $Definition['Banner Title'] = 'Banner Title';
@@ -100,7 +100,7 @@ $Definition['Customize your Public Profile'] = 'Customize your Public Profile';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
 $Definition['Decline'] = 'Decline';
-$Definition['Delete'] = 'Delete';
+$Definition['Delete'] = 'ဖျက်သည်။';
 $Definition['Description'] = 'Description';
 $Definition['Disable'] = 'Disable';
 $Definition['Disable Google Sign In'] = 'Disable Google Sign In';
@@ -116,21 +116,21 @@ $Definition['Discussions'] = 'ဆွေးနွေးချက်များ';
 $Definition['Discussions per Page'] = 'စာတစ်မျက်နှာတွင် ဆွေးနွေးချက် အရေအတွက်';
 $Definition['dot'] = 'dot';
 
-$Definition['Edit'] = 'Edit';
-$Definition['edit'] = 'edit';
-$Definition['Edit Category'] = 'Edit Category';
-$Definition['Edit User'] = 'Edit User';
+$Definition['Edit'] = 'ပြင်သည်။';
+$Definition['edit'] = 'ပြင်သည်။';
+$Definition['Edit Category'] = 'အမျိုးအစား ပြင်သည်။';
+$Definition['Edit User'] = 'အဖွဲ့ဝင် ပြင်ဆင်ခြင်း';
 $Definition['EditContentTimeout.Notes'] = 'Note: If a user is in a role that has permission to edit content, those permissions will override any value selected here.';
 $Definition['Email'] = 'Email';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'Email sent from the application will be addressed from the following name and address';
 $Definition['Email visible to other users'] = 'Email visible to other users';
-$Definition['EmailMembershipApproved'] = 'Hello %1$s,
+$Definition['EmailMembershipApproved'] = 'မင်္ဂလာပါ %1$s,
 
-You have been approved for membership. Sign in now at the following link:
+သင့်ကို အဖွဲ့ဝင် အဖြစ် အသိအမှတ်ပြုပြီးပါပြီ။ အောက်က link ကနေ တဆင့် ဝင်ရောက် ရေးသား မေးမြန်းဆွေးနွေးနိုင်သည်။
 
   %2$s
   
-Have a great day!';
+ပျော်ရွှင်သော နေ့လေးတစ်နေ့ ဖြစ်ပါစေ။';
 $Definition['Enable'] = 'Enable';
 $Definition['Enable Google Sign In'] = 'Enable Google Sign In';
 $Definition['Enable OpenID'] = 'Enable OpenID';
@@ -160,7 +160,7 @@ $Definition['Guest'] = 'Guest';
 $Definition['here'] = 'here';
 
 $Definition['Import'] = 'Import';
-$Definition['Information'] = 'Information';
+$Definition['Information'] = 'အချက်အလက်';
 $Definition['Internal'] = 'Internal';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'When you use registration by invitation users will have a link called <a href="%s" class="Popup">My Invitations</a> on their profile pages.';
 $Definition['Invitations per month'] = 'Invitations per month';
@@ -175,10 +175,10 @@ $Definition['Locale Developer'] = 'Locale Developer';
 $Definition['Locale Developer Settings %s.'] = 'Locale Developer Settings %s.';
 $Definition['Locale info file settings.'] = '<p>When you generate the zip file you can set the information for the locale below.</p> <p>You can download a zip of the locale pack by clicking <a href="%s">here</a>.</p>';
 $Definition['Locale Key (Folder)'] = 'Locale Key (Folder)';
-$Definition['Locale Name'] = 'Locale Name';
-$Definition['Locales'] = 'Locales';
+$Definition['Locale Name'] = 'ဘာသာစကား အမည်';
+$Definition['Locales'] = 'ဘာသာစကား';
 $Definition['Locales are in your %s folder.'] = 'Locales allow you to support other languages on your site. Once an locale has been added to your %s folder, you can enable or disable it here.';
-$Definition['Location'] = 'Location';
+$Definition['Location'] = 'နေရာ';
 
 $Definition['Manage Applicants'] = 'Manage Applicants';
 $Definition['Manage Applications'] = 'Manage Applications';
@@ -193,8 +193,8 @@ $Definition['Manage Users'] = 'Manage Users';
 $Definition['Manage your Plugins'] = 'Manage your Plugins';
 $Definition['Max Comment Length'] = 'Max Comment Length';
 $Definition['Member'] = 'အဖွဲ့ဝင်';
-$Definition['Message'] = 'Message';
-$Definition['Messages'] = 'Messages';
+$Definition['Message'] = 'စာ';
+$Definition['Messages'] = 'စာများ';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
 $Definition['Method'] = 'Method';
 $Definition['minute(s)'] = 'minute(s)';
@@ -612,13 +612,13 @@ $Definition['Roles'] = 'ရာထူးတာဝန်';
 $Definition['Save'] = 'သိမ်းဆည်းရန်';
 $Definition['Save Draft'] = 'စာကြမ်း သိမ်းဆည်းရန်';
 $Definition['Save Preferences'] = 'ကိုယ်ရေးအချက်များ သိမ်းဆည်းရန်';
-$Definition['Search'] = 'Search';
+$Definition['Search'] = 'ရှာသည်';
 $Definition['Select an image on your computer (2mb max)'] = 'Select an image on your computer (2mb max)';
 $Definition['Send %s a Message'] = '%s ကို စာပို့ရန်';
 $Definition['Send Message'] = 'စာပို့ရန်';
 $Definition['Sent To'] = 'သို့';
 $Definition['Share'] = 'မျှဝေသည်';
-$Definition['she'] = 'she';
+$Definition['she'] = 'သူမ';
 $Definition['Sign In'] = 'ဝင်ရောက်ရန်';
 $Definition['Sign In with Google'] = 'Google ဖြင့်ဝင်ရောက်ရန်';
 $Definition['Sign In with OpenID'] = 'OpenID ဖြင့်ဝင်ရောက်ရန်';
@@ -631,7 +631,7 @@ $Definition['Start a New Conversation'] = 'ပြောဆိုချက်အ�
 $Definition['Start a New Discussion'] = 'ဆွေးနွေးမေးမြန်းခြင်းစတင်ရန်';
 $Definition['Start Conversation'] = 'Start Conversation';
 $Definition['Started by %1$s'] = 'Started by %1$s';
-$Definition['Status'] = 'Status';
+$Definition['Status'] = 'အခြေအနေ';
 
 $Definition['Thank You!'] = 'ကျေးဇူးတင်ပါသည်!';
 $Definition['Thumbnail'] = 'ပုံသေး';
@@ -661,7 +661,7 @@ $Definition['ValidateUsername'] = 'Usernames must be 3-20 characters and consist
 $Definition['ValidateVersion'] = 'The %s field is not a valid version number. See the php version_compare() function for examples of valid version numbers.';
 $Definition['Visits'] = 'ကြည့်ရှုမှုပေါင်း';
 
-$Definition['wall'] = 'wall';
+$Definition['wall'] = 'မျက်နှာစာ';
 $Definition['Why do you want to join?'] = 'သင်ဘာကြောင့် ချိတ်ဆက်ချင်တာလဲ ?';
 $Definition['Write a comment'] = 'မှတ်ချက်ရေးသားရန်';
 $Definition['Write Comment'] = 'မှတ်ချက်ရေးသားရန်';
@@ -673,7 +673,7 @@ $Definition['You already have an account here.'] = 'သင်၏ Account ရှ�
 $Definition['You are connected as %s through %s.'] = 'You are connected as %s through %s.';
 $Definition['You do not have any conversations.'] = 'You do not have any conversations.';
 $Definition['You do not have any notifications yet.'] = 'အသိပေးချက် အသစ်မရှိသေးပါ။';
-$Definition['your'] = 'your';
+$Definition['your'] = 'သင်၏';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Your application will be reviewed by an administrator. You will be notified by email if your application is approved.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'သင် အဖွဲ့ဝင်ထားသည့် အမည်မှာ : <strong>%s</strong>';
 $Definition['Popular']='လူကြည့်အများဆုံး';
