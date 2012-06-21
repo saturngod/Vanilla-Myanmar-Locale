@@ -5,7 +5,7 @@ $LocaleInfo['my_MM'] = array (
   'Locale' => 'my_MM',
   'Name' => 'မြန်မာစာ',
   'Description' => 'Myanmar Lanauge , မြန်မာ ဘာသာစကား',
-  'Version' => '0.2',
+  'Version' => '0.3',
   'Author' => 'MYSTERYZILLION',
   'AuthorEmail' => 'saturngod@gmail.com',
   'AuthorUrl' => 'http://www.saturngod.net',
@@ -151,15 +151,15 @@ $Definition['Garden.Email.SupportAddress'] = 'Support email';
 $Definition['Garden.Import.Description'] = 'Use this page to import data from another forum that was exported using Vanilla\'s exporter. For more information <a href="%s">see our importing documentation</a>.';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';
 $Definition['Garden.Import.Overwrite.Description'] = 'Warning: All data in this forum will be overwritten.';
-$Definition['Generate'] = 'Generate';
-$Definition['Generate Password'] = 'Generate Password';
+$Definition['Generate'] = 'အလိုအလျောက်ဖန်တီးသည်';
+$Definition['Generate Password'] = 'လျှို့ဝှက်စာလုံး အလိုအလျောက်ဖန်တီးရန်';
 $Definition['Go'] = 'Go';
 $Definition['Google Sign In Settings'] = 'Google Sign In Settings';
 $Definition['Guest'] = 'Guest';
 
 $Definition['here'] = 'here';
 
-$Definition['Import'] = 'Import';
+$Definition['Import'] = 'ထည့်သွင်းသည်';
 $Definition['Information'] = 'အချက်အလက်';
 $Definition['Internal'] = 'Internal';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'When you use registration by invitation users will have a link called <a href="%s" class="Popup">My Invitations</a> on their profile pages.';
@@ -210,7 +210,7 @@ $Definition['New discussions in the last day'] = 'New discussions in the last da
 $Definition['New discussions in the last week'] = 'New discussions in the last week';
 $Definition['New messages in the last day'] = 'New messages in the last day';
 $Definition['New messages in the last week'] = 'New messages in the last week';
-$Definition['New Password'] = 'New Password';
+$Definition['New Password'] = 'လျှို့ဝှက်စာလုံး အသစ်';
 $Definition['New users are reviewed and approved by an administrator (that\'s you!).'] = 'New users are reviewed and approved by an administrator (that\'s you!).';
 $Definition['New users fill out a simple form and are granted access immediately.'] = 'New users fill out a simple form and are granted access immediately.';
 $Definition['New users in the last day'] = 'New users in the last day';
@@ -229,10 +229,10 @@ $Definition['Organize your Categories'] = 'Organize your Categories';
 $Definition['Other Themes'] = 'Other Themes';
 $Definition['Outgoing Email'] = 'Outgoing Email';
 
-$Definition['Page'] = 'Page';
+$Definition['Page'] = 'စာမျက်နှာ';
 $Definition['Panel Box'] = 'Panel Box';
-$Definition['Password'] = 'Password';
-$Definition['Password Options'] = 'Password Options';
+$Definition['Password'] = 'လျှို့ဝှက်စာလုံး';
+$Definition['Password Options'] = 'လျှို့ဝှက်စာလုံး ပြင်ဆင်ရန်';
 $Definition['Permanent (301)'] = 'Permanent (301)';
 $Definition['Please choose an authenticator to configure.'] = 'Please choose an authenticator to configure.';
 $Definition['Plugin'] = 'Plugin';
@@ -249,9 +249,9 @@ $Definition['Registration'] = 'Registration';
 $Definition['Remove'] = 'Remove';
 $Definition['Remove locale developer files.'] = 'Remove the locale deveoper files and reset your changes.';
 $Definition['Requires: '] = 'Requires: ';
-$Definition['Reset Password'] = 'Reset Password';
-$Definition['Reset password and send email notification to user'] = 'Reset password and send email notification to user';
-$Definition['Reveal Password'] = 'Reveal Password';
+$Definition['Reset Password'] = 'လျှို့ဝှက်စာလုံး ပြန်လည်ဖန်တီးရန်';
+$Definition['Reset password and send email notification to user'] = 'လျှို့ဝှက်စာလုံး ဖန်တီးပြီး email ဖြင့် အသုံးပြုသူထံ အကြောင်းကြားပြီး';
+$Definition['Reveal Password'] = 'Reveal လျှို့ဝှက်စာလုံး';
 $Definition['Role'] = 'Role';
 $Definition['Roles & Permissions'] = 'Roles & Permissions';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
@@ -268,7 +268,7 @@ $Definition['Settings'] = 'Settings';
 
 $Definition['Sink'] = 'Sink';
 $Definition['SMTP Host'] = 'SMTP Host';
-$Definition['SMTP Password'] = 'SMTP Password';
+$Definition['SMTP Password'] = 'SMTP လျှို့ဝှက်စာလုံး';
 $Definition['SMTP Port'] = 'SMTP Port';
 $Definition['SMTP Security'] = 'SMTP Security';
 $Definition['SMTP User'] = 'SMTP User';
@@ -415,6 +415,7 @@ $Definition['Categories'] = 'အမျိုးအစားများ';
 $Definition['Category'] = 'အမျိုးအစား';
 $Definition['Change My Password'] = 'လျှို့ဝှက်စာလုံးပြောင်းလဲမည်';
 $Definition['Change My Picture'] = 'ရုပ်ပုံပြောင်းလဲမည်';
+$Definition['Change Picture'] = 'ရုပ်ပုံပြောင်းလဲမည်';
 $Definition['Close'] = 'ပိတ်သည်';
 $Definition['comment'] = 'မှတ်ချက်';
 $Definition['Comment'] = 'မှတ်ချက်';
@@ -449,7 +450,7 @@ $Definition['Edit Preferences'] = 'စိတ်ကြိုက်ပြင်ဆ
 $Definition['Email'] = 'Email';
 $Definition['Email Notifications'] = 'Email ဖြင့်အကြောင်းကြားချက်';
 $Definition['Email Unavailable'] = 'email အသုံးပြု၍မရပါ';
-$Definition['EmailInvitation'] = 'Hello!
+$Definition['EmailInvitation'] = 'မင်္ဂလာပါ!
 
 %1$s has invited you to join %2$s. If you want to join, you can do so by clicking this link:
 
@@ -547,7 +548,7 @@ $Definition['Inbox'] = 'စာတိုက်';
 $Definition['Internal'] = 'Internal';
 $Definition['Invitation Code'] = 'Invitation Code';
 $Definition['Invite'] = 'Invite';
-$Definition['Invited by'] = 'Invited by';
+$Definition['Invited by'] = 'ဖိတ်ခေါ်သူ';
 
 $Definition['Joined'] = 'အသင်းဝင်သည့်နေ့ရက်';
 
@@ -584,7 +585,7 @@ $Definition['Original'] = 'Original';
 
 $Definition['PageDetailsMessage'] = '%1$s to %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s to %2$s of %3$s';
-$Definition['Password'] = 'Password';
+$Definition['Password'] = 'လျှို့ဝှက်စာလုံး';
 $Definition['PasswordRequest'] = 'မင်္ဂလာပါ %1$s,
 
 Someone has requested to reset your password at %2$s. To reset your password, follow this link:
@@ -592,7 +593,7 @@ Someone has requested to reset your password at %2$s. To reset your password, fo
   %3$s
 
 If you did not make this request, disregard this email.';
-$Definition['Passwords don\'t match'] = 'Passwords don\'t match';
+$Definition['Passwords don\'t match'] = 'လျှို့ဝှက်စာလုံး ကိုက်ညီမှု မရှိပါ';
 $Definition['Permalink'] = 'Permalink';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.';
 $Definition['Post Comment'] = 'မှတ်ချက်ရေးသားပါ';
