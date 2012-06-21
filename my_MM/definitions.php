@@ -5,7 +5,7 @@ $LocaleInfo['my_MM'] = array (
   'Locale' => 'my_MM',
   'Name' => 'မြန်မာစာ',
   'Description' => 'Myanmar Lanauge , မြန်မာ ဘာသာစကား',
-  'Version' => '0.3',
+  'Version' => '0.4.2',
   'Author' => 'MYSTERYZILLION',
   'AuthorEmail' => 'saturngod@gmail.com',
   'AuthorUrl' => 'http://www.saturngod.net',
@@ -189,7 +189,7 @@ $Definition['Manage Roles & Permissions'] = 'Manage Roles & Permissions';
 $Definition['Manage Routes'] = 'Manage Routes';
 $Definition['Manage Spam'] = 'Manage Spam';
 $Definition['Manage Themes'] = 'Manage Themes';
-$Definition['Manage Users'] = 'Manage Users';
+$Definition['Manage Users'] = 'အသုံးပြုသူများကို စီမံခံခွဲခြင်း';
 $Definition['Manage your Plugins'] = 'Manage your Plugins';
 $Definition['Max Comment Length'] = 'Max Comment Length';
 $Definition['Member'] = 'အဖွဲ့ဝင်';
@@ -328,6 +328,9 @@ $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires
 $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.';
 $Definition['Your changes have been saved.'] = 'Your changes have been saved.';
 $Definition['Your settings have been saved.'] = 'Your settings have been saved.';
+
+$Definition['Ban List'] = 'ပိတ်ထားသူ စာရင်း';
+$Definition['Users'] = 'အသုံးပြုသူ';
 
 /********
 END ADMIN
@@ -684,6 +687,12 @@ $Definition['Views']='ကြည့်ရှုမှု';
 
 $Definition['Mark All Viewed']='အကုန်ဖတ်ပြီး';
 $Definition['More']='ထပ်ပြီးတော့';
+
+$Definition['Ask a Question']='မေးခွန်း မေးရန်';
+$Definition['Ask Question']='မေးမည်';
+$Definition['You can either ask a question or start a discussion.']='မေးခွန်း မေးခြင်း သို့မဟုတ် ဆွေးနွေးမှုဖြင့် စတင်နိုင်ပါသည်';
+$Definition['Question Title']='မေးခွန်း ခေါင်းစဉ်';
+$Definition['Unanswered Questions']='အဖြေမရှိ';
 
 /*******
 end user
